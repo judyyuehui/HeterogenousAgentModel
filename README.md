@@ -1,6 +1,6 @@
 # README - Final Project for Heterogeneous Agent Model Course
 
-This repository contains the code for the final project in the Heterogeneous Agent Model course. It includes scripts to generate Impulse Response Functions (IRFs) for an MIT shock under various scenarios.
+This repository contains the code for the final project in the Heterogeneous Agent Model course. It includes scripts to generate IRFs for an MIT shock under various scenarios.
 
 ## Getting Started
 
@@ -34,4 +34,4 @@ To obtain the IRFs for different types of shocks, follow these instructions:
 
 ## Repository Privacy
 
-Considering that the majority of the code is sample code provided in class, you might want to keep the repository private to avoid potential issues with academic integrity and copyright. Always check with your course instructor or institution's policies regarding sharing course materials online.
+Considering that the majority of the code is sample code provided in class, please let me know if I should keep the repository private to avoid potential issues with academic integrity and copyright. 
