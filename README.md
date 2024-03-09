@@ -1,6 +1,6 @@
-# README - Final Project for Heterogeneous Agent Model Course
+# README - Computational Project for ECON 33540
 
-This repository contains the code for the final project in the Heterogeneous Agent Model course. It includes scripts to generate IRFs for an MIT shock under various scenarios.
+This repository contains the code for my computational project for Macroeconomics with Heterogeneous Households. It includes scripts to generate IRFs for various types of MIT shocks.
 
 ## Getting Started
 
